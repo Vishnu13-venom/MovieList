@@ -26,9 +26,9 @@ Install {project-name} with npm
     
 ## Screenshots
 
-![Login page](https://drive.google.com/drive/folders/1u3g-6Hu4aZFKKNgQYcQCIF0a_OfhtFMx)
-![Home Page](https://drive.google.com/drive/folders/1u3g-6Hu4aZFKKNgQYcQCIF0a_OfhtFMx)
-![Add page](https://drive.google.com/drive/folders/1u3g-6Hu4aZFKKNgQYcQCIF0a_OfhtFMx)
+![Login page](https://drive.google.com/file/d/1NjjIpKfH_nnO9zWFm9mLilZ9vVMg0ImO/view?usp=sharing)
+![Home Page](https://drive.google.com/file/d/1hc4MJEDZZKMfGfVb9gN-Vqf-kExZmztu/view?usp=sharing)
+![Add page](https://drive.google.com/file/d/1iA0-DY4q80tJQi8GULwU1uprPStotJ-d/view?usp=sharing)
 
 
 ## Test Application
