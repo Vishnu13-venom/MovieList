@@ -8,18 +8,10 @@ In this application you can add your favourite movies to your WatchList, Suppose
 
 - Dark Theme user interface
 - All movies
-- Fullscreen mode
-- Cross platform
+- Netflix related theme
 - Add or Delete movies List
 
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
 ## Installation
@@ -39,8 +31,41 @@ Install {project-name} with npm
 ![Add page](https://drive.google.com/drive/folders/1u3g-6Hu4aZFKKNgQYcQCIF0a_OfhtFMx)
 
 
-## Authors
+## Test Application
 
 Here is movie watchlist link:
 - [MovieMis](https://629ba7b25e71672a02a07b0d--charming-queijadas-76ab0d.netlify.app/)
+
+
+## Contributing
+
+Contributions are always welcome!
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/Vishnu13-venom/MovieList.git
+```
+
+Go to the project directory
+
+```bash
+  cd MovieList
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
 
